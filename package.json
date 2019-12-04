@@ -1,0 +1,27 @@
+{
+  "name": "improved-tooltip_task",
+  "version": "1.0.0",
+  "description": "javascript.info task solution for \\\"Improved tooltip behavior task\\\"",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/improved-tooltip-behavior-task.git"
+  },
+  "keywords": [
+    "tooltip",
+    "improved-tooltip",
+    "javascript.info-task",
+    "task",
+    "task-solution"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/improved-tooltip-behavior-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/improved-tooltip-behavior-task#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2"
+  }
+}
