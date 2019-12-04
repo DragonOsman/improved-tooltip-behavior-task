@@ -1,0 +1,30 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "standard"    
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2019,
+        "parser": "babel"
+    },
+    "rules": {
+        "eqeqeq": "error",
+        "semi": "off",
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "no-var": "error",
+        "prefer-const": "error",
+        "space-before-function-paren": "off",
+        "newline-before-return": "off"
+    }
+}
